@@ -16,7 +16,7 @@ import play.modules.reactivemongo.json.collection.JSONCollection
 
 object Application extends Controller with MongoController {
 
-  def collection: JSONCollection = db.collection[JSONCollection]("big")
+  def collection: JSONCollection = db.collection[JSONCollection]("articles")
 
   def findOne() = Action.async {
     // let's do our query
