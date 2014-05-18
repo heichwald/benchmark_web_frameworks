@@ -1,0 +1,269 @@
+{
+    "_id" : ObjectId("5377cba55f41d42bc973d506"),
+    "my" : [ 
+        {
+            "id" : 0,
+            "guid" : "b4932205-6d23-4ef6-ad4c-124f5a63fac3",
+            "isActive" : false,
+            "balance" : "$3,362.19",
+            "picture" : "http://placehold.it/32x32",
+            "age" : 39,
+            "eyeColor" : "brown",
+            "name" : "Stokes Glass",
+            "gender" : "male",
+            "company" : "LUXURIA",
+            "email" : "stokesglass@luxuria.com",
+            "phone" : "+1 (825) 543-2348",
+            "address" : "517 Beaver Street, Cavalero, Florida, 3671",
+            "about" : "Consectetur reprehenderit consequat dolor elit ipsum. Nostrud aliqua sint labore mollit nulla deserunt reprehenderit. Est fugiat laborum consequat laboris reprehenderit excepteur enim eiusmod laborum ipsum deserunt officia. Dolor commodo occaecat enim do et anim ad dolore fugiat incididunt eu.\r\n",
+            "registered" : "2014-01-19T22:56:52 +05:00",
+            "latitude" : 22.326464,
+            "longitude" : 114.819843,
+            "tags" : [ 
+                "minim", 
+                "esse", 
+                "reprehenderit", 
+                "labore", 
+                "officia", 
+                "non", 
+                "cillum"
+            ],
+            "friends" : [ 
+                {
+                    "id" : 0,
+                    "name" : "Angelina Boone"
+                }, 
+                {
+                    "id" : 1,
+                    "name" : "Parker Clark"
+                }, 
+                {
+                    "id" : 2,
+                    "name" : "Copeland Blair"
+                }
+            ],
+            "greeting" : "Hello, Stokes Glass! You have 8 unread messages.",
+            "favoriteFruit" : "strawberry"
+        }, 
+        {
+            "id" : 1,
+            "guid" : "7231ff65-32a1-4371-b712-1b4569f9f71c",
+            "isActive" : true,
+            "balance" : "$1,810.65",
+            "picture" : "http://placehold.it/32x32",
+            "age" : 31,
+            "eyeColor" : "blue",
+            "name" : "Mills Conrad",
+            "gender" : "male",
+            "company" : "UNEEQ",
+            "email" : "millsconrad@uneeq.com",
+            "phone" : "+1 (804) 567-3882",
+            "address" : "161 Perry Terrace, Dunbar, Georgia, 3224",
+            "about" : "Cupidatat proident mollit sint veniam aliqua anim sunt aliquip dolor nulla enim ipsum. Adipisicing do fugiat culpa culpa exercitation adipisicing dolore et sit. Incididunt mollit consectetur nisi sunt est officia velit eiusmod ex aliqua. Sint velit fugiat culpa enim consequat.\r\n",
+            "registered" : "2014-03-29T13:42:02 +04:00",
+            "latitude" : 32.274491,
+            "longitude" : 129.18507,
+            "tags" : [ 
+                "pariatur", 
+                "mollit", 
+                "commodo", 
+                "occaecat", 
+                "eiusmod", 
+                "voluptate", 
+                "cupidatat"
+            ],
+            "friends" : [ 
+                {
+                    "id" : 0,
+                    "name" : "Harding Jacobson"
+                }, 
+                {
+                    "id" : 1,
+                    "name" : "Merritt Reeves"
+                }, 
+                {
+                    "id" : 2,
+                    "name" : "Skinner Navarro"
+                }
+            ],
+            "greeting" : "Hello, Mills Conrad! You have 10 unread messages.",
+            "favoriteFruit" : "strawberry"
+        }, 
+        {
+            "id" : 2,
+            "guid" : "bb7fdfee-9251-4d3c-8f3f-638eb9b322b9",
+            "isActive" : true,
+            "balance" : "$1,284.23",
+            "picture" : "http://placehold.it/32x32",
+            "age" : 29,
+            "eyeColor" : "green",
+            "name" : "Osborn Holder",
+            "gender" : "male",
+            "company" : "SURETECH",
+            "email" : "osbornholder@suretech.com",
+            "phone" : "+1 (860) 415-2794",
+            "address" : "176 Tudor Terrace, Lloyd, Mississippi, 6537",
+            "about" : "Esse incididunt voluptate eiusmod aliqua irure voluptate ad dolor ex irure. Enim id cillum do cupidatat. Eiusmod incididunt ea nostrud irure sit ex ex duis. Ea irure cillum nostrud ex nostrud ipsum commodo quis veniam dolor veniam. Quis dolore aute excepteur id. Dolor sint laborum sint sunt enim in. Amet do ex velit esse duis cillum aute.\r\n",
+            "registered" : "2014-04-07T03:02:03 +04:00",
+            "latitude" : 31.635784,
+            "longitude" : -111.89613,
+            "tags" : [ 
+                "officia", 
+                "incididunt", 
+                "in", 
+                "labore", 
+                "reprehenderit", 
+                "enim", 
+                "do"
+            ],
+            "friends" : [ 
+                {
+                    "id" : 0,
+                    "name" : "Lee Oneil"
+                }, 
+                {
+                    "id" : 1,
+                    "name" : "Geraldine Blackburn"
+                }, 
+                {
+                    "id" : 2,
+                    "name" : "Mary Dixon"
+                }
+            ],
+            "greeting" : "Hello, Osborn Holder! You have 3 unread messages.",
+            "favoriteFruit" : "apple"
+        }, 
+        {
+            "id" : 3,
+            "guid" : "d39b8686-7bdb-4a76-9f6c-961f186a28d9",
+            "isActive" : false,
+            "balance" : "$1,792.36",
+            "picture" : "http://placehold.it/32x32",
+            "age" : 25,
+            "eyeColor" : "brown",
+            "name" : "Leon Fields",
+            "gender" : "male",
+            "company" : "NETROPIC",
+            "email" : "leonfields@netropic.com",
+            "phone" : "+1 (938) 477-2475",
+            "address" : "143 Dunne Place, Ypsilanti, California, 2908",
+            "about" : "Cillum incididunt cupidatat Lorem aute veniam voluptate incididunt dolor. Ut excepteur ex ullamco qui. Aliqua mollit ex enim ullamco excepteur pariatur minim. Fugiat excepteur esse aute est. Magna cillum dolore nostrud dolore mollit pariatur minim ad elit in laborum. Amet duis est sint deserunt qui occaecat excepteur incididunt consequat. Velit quis ut anim et exercitation adipisicing velit exercitation sint occaecat culpa voluptate irure.\r\n",
+            "registered" : "2014-04-13T13:48:12 +04:00",
+            "latitude" : -53.706559,
+            "longitude" : 31.531143,
+            "tags" : [ 
+                "ad", 
+                "reprehenderit", 
+                "enim", 
+                "et", 
+                "adipisicing", 
+                "duis", 
+                "ad"
+            ],
+            "friends" : [ 
+                {
+                    "id" : 0,
+                    "name" : "Trisha Mueller"
+                }, 
+                {
+                    "id" : 1,
+                    "name" : "Potter Wood"
+                }, 
+                {
+                    "id" : 2,
+                    "name" : "Wood Schultz"
+                }
+            ],
+            "greeting" : "Hello, Leon Fields! You have 10 unread messages.",
+            "favoriteFruit" : "strawberry"
+        }, 
+        {
+            "id" : 4,
+            "guid" : "3238f605-eef7-4314-9411-d6c6fb79a032",
+            "isActive" : true,
+            "balance" : "$2,966.06",
+            "picture" : "http://placehold.it/32x32",
+            "age" : 28,
+            "eyeColor" : "brown",
+            "name" : "Gayle Mays",
+            "gender" : "female",
+            "company" : "RECRISYS",
+            "email" : "gaylemays@recrisys.com",
+            "phone" : "+1 (882) 550-2001",
+            "address" : "485 Neptune Avenue, Munjor, Rhode Island, 2370",
+            "about" : "Elit nostrud minim deserunt dolor adipisicing. Ullamco nulla nostrud magna sint pariatur anim do voluptate ullamco. Sit aliquip esse do minim in mollit qui sit qui dolore sunt aliqua.\r\n",
+            "registered" : "2014-03-22T23:58:14 +04:00",
+            "latitude" : 51.87234,
+            "longitude" : 11.679085,
+            "tags" : [ 
+                "id", 
+                "dolore", 
+                "proident", 
+                "fugiat", 
+                "irure", 
+                "consequat", 
+                "labore"
+            ],
+            "friends" : [ 
+                {
+                    "id" : 0,
+                    "name" : "Carey Burgess"
+                }, 
+                {
+                    "id" : 1,
+                    "name" : "Brenda Diaz"
+                }, 
+                {
+                    "id" : 2,
+                    "name" : "Debra Tanner"
+                }
+            ],
+            "greeting" : "Hello, Gayle Mays! You have 4 unread messages.",
+            "favoriteFruit" : "strawberry"
+        }, 
+        {
+            "id" : 5,
+            "guid" : "68cf43d1-1a84-4714-bae1-ee018734b381",
+            "isActive" : false,
+            "balance" : "$3,279.22",
+            "picture" : "http://placehold.it/32x32",
+            "age" : 35,
+            "eyeColor" : "brown",
+            "name" : "Adams Wade",
+            "gender" : "male",
+            "company" : "CONCILITY",
+            "email" : "adamswade@concility.com",
+            "phone" : "+1 (821) 597-2743",
+            "address" : "316 Bijou Avenue, Marenisco, Arkansas, 2305",
+            "about" : "Et eu non tempor sunt occaecat dolore laboris ad. Anim est sunt ut esse id ex cillum consequat aute sunt tempor. Quis officia ex do laboris est.\r\n",
+            "registered" : "2014-04-24T17:37:37 +04:00",
+            "latitude" : -64.585249,
+            "longitude" : -111.931226,
+            "tags" : [ 
+                "ut", 
+                "duis", 
+                "esse", 
+                "magna", 
+                "in", 
+                "voluptate", 
+                "do"
+            ],
+            "friends" : [ 
+                {
+                    "id" : 0,
+                    "name" : "Cochran Calderon"
+                }, 
+                {
+                    "id" : 1,
+                    "name" : "Morton Peters"
+                }, 
+                {
+                    "id" : 2,
+                    "name" : "Nona Savage"
+                }
+            ],
+            "greeting" : "Hello, Adams Wade! You have 4 unread messages.",
+            "favoriteFruit" : "apple"
+        }
+    ]
+}
